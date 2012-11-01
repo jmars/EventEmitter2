@@ -1,0 +1,12 @@
+{
+  "name": "EventEmitter2",
+  "repo": "jmars/EventEmitter2",
+  "description": "A nodejs event emitter implementation with namespaces, wildcards, TTL and browser support",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "lib/eventemitter2.js"
+  ]
+}
